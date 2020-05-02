@@ -17,7 +17,7 @@ module.exports = function (app) {
 
         }
 
-        var newUserScore = req.body.scores;
+        var newUserScores = req.body.scores;
         var friendDifference;
 
         for (var i = 0; i < friendList.length; i++) {
@@ -25,7 +25,7 @@ module.exports = function (app) {
             friendDifference = 0
             for (var j = 0; j < currentFriend.scores.length; j++) {
                 var currentScore = currentFriend.scores[j];
-                var newUserScore = newUserScore[j];
+                var newUserScore = newUserScores[j];
 
                 friendDifference += Math.abs(parseInt(newUserScore) - parseInt(currentScore));
 
