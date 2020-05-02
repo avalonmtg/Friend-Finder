@@ -10,7 +10,8 @@ Start by selecting Take the Survey -
 
 Fill out the Survey - 
 
-![image](https://user-images.githubusercontent.com/59719016/80870819-b7b28a80-8c5d-11ea-9056-1bf2688280b9.png)
+![image](https://user-images.githubusercontent.com/59719016/80871016-0ad90d00-8c5f-11ea-9829-ed9b41a41fd9.png)
+
 
 Get your new MI6 Friend!
 
