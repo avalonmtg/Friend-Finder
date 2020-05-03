@@ -18,7 +18,7 @@ var friendsArray = [
 
     {
         name: "M",
-        photo: "https://lh3.googleusercontent.com/proxy/gHMVweq4pjaKlE8hMJCedmp0IT_rO5kqtt-NV5XdCm7oUs4qiDxeOysTfA39sSa9S9bxOMIjNlAI4-V_IkePTlQi-Kg",
+        photo: "http://www.007.info/wp-content/uploads/2012/10/Judi_Dench_225.jpg",
         scores: [
             "5",
             "3",
@@ -67,7 +67,7 @@ var friendsArray = [
     },
     {
         name: "Q",
-        photo: "https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwi9guyt-4jpAhVQip4KHeFHCOIQjRx6BAgBEAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FQ_(James_Bond)&psig=AOvVaw2puug02y2S2JJqEwRSaYQe&ust=1588089181556828",
+        photo: "https://i.pinimg.com/originals/34/05/d1/3405d1f9b5461a211dd526e82b60ffc9.png",
         scores: [
             "2",
             "2",
