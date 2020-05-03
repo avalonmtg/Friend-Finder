@@ -6,8 +6,7 @@ Find a new MI-6 Best Friend!
 
 Start by selecting Take the Survey -
 
-![image](https://user-images.githubusercontent.com/5971901gi6/80898152-fe7f9f00-8cb4-11ea-9277-ebf7bd99547f.png)
-
+![image](https://user-images.githubusercontent.com/59719016/80898178-6209cc80-8cb5-11ea-889a-6f6dee77236d.png)
 
 Fill out the Survey - 
 
